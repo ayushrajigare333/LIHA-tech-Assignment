@@ -1,2 +1,2 @@
-# LIHA tech Assignment
+# LIHA Tech Assignments
 
